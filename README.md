@@ -4,4 +4,5 @@ Soy un apasionado programador en busca de oportunidades para crecer y mejorar co
 me encanta la tecnologia y aprender sobre su funcionamiento👨‍💻​
 me gusta conocer gente🤝​
 me encanta la musica, no puedo estar sin ella🎶​
-un poco friki💻​🤓​Proyectos:
+un poco friki💻​🤓​
+Proyectos:
