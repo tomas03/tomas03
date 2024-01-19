@@ -1,4 +1,5 @@
-### Hola soy Tomas Fantinel!![octocat-1705640214503](https://github.com/tomas03/tomas03/assets/30119259/265ca322-77c3-422e-9b77-bcd1a175edec)
+### Hola soy Tomas Fantinel!![octocat-1705640214503 (1)](https://github.com/tomas03/tomas03/assets/30119259/1e0abdd3-6d67-4313-b668-32db7a490902)
+
 
 Soy un apasionado programador en busca de oportunidades para crecer y mejorar como desarrollador. Actualmente estoy cursando la carrera de desarrollo de software(voy por mi segundo año) y estoy realizando diferentes cursos de desarrollo web y aplicaciones tanto de pc como android y ios. Sobre mi:
 
