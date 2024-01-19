@@ -1,7 +1,14 @@
 ### HI I'M Tomas Fantinel!
 ![242e379f970c22bf30e1689290627058](https://github.com/tomas03/tomas03/assets/30119259/fb49ab77-1a1a-41ea-86c3-f152b3a72004)
 
-I am a passionate programmer looking for opportunities to grow and improve as a developer. I am currently studying software development (I'm in my second year) and I am taking different web development courses and applications for both PC, Android and iOS
+I am a passionate programmer looking for opportunities to grow and improve as a developer. I am currently studying software development (I'm in my second year) and I am taking different web development courses and applications for both PC, Android and iOS.
+<br>
+Proyects:
+<br>
+[Strict](https://github.com/tomas03/Strict)
+<br>
+[Fitness Gym](https://github.com/tomas03/FitnessGym)
+<br>
 <br>
 About me:
 
@@ -22,12 +29,7 @@ learned languages:
 ![238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb](https://github.com/tomas03/tomas03/assets/30119259/6bdf9435-23d5-49ed-92ea-dea4adb375ca)
 <br>
 
-Proyects:
-<br>
-[Strict](https://github.com/tomas03/Strict)
-<br>
-[Fitness Gym](https://github.com/tomas03/FitnessGym)
-<br>
+
 
 
 
