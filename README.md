@@ -9,6 +9,9 @@ Proyects:
 <br>
 [Fitness Gym](https://github.com/tomas03/FitnessGym)
 <br>
+[JobFinder](https://github.com/tomas03/JobFinder)
+<br>
+[El encuentro barberia](https://github.com/tomas03/ElEncuentroBarberia)
 <br>
 About me:
 
