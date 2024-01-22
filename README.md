@@ -15,6 +15,10 @@ Proyects:
 <br>
 [App Negocio](https://github.com/tomas03/appNegocioPC)
 <br>
+[to-do list](https://github.com/tomas03/To-do-list)
+<br>
+[formulario registro clientes](https://github.com/tomas03/FormularioRegistro)
+<br>
 About me:
 
 -i love technology and learn how it works👨‍💻​
