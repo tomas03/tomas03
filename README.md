@@ -1,42 +1,37 @@
-### HI I'M Tomas Fantinel!
+### Hola! Mi nombre es Tomas Fantinel
 ![242e379f970c22bf30e1689290627058](https://github.com/tomas03/tomas03/assets/30119259/fb49ab77-1a1a-41ea-86c3-f152b3a72004)
 
-I am a passionate programmer looking for opportunities to grow and improve as a developer. I am currently studying software development (I'm in my second year) and I am taking different web development courses and applications for both PC, Android and iOS.
+Soy un desarrollador de software en proceso buscando oportunidad para crecer y mejorar.
+Mi fuerte es Java, aunque tambien se Javascript, HTML CSS, MYSQL, GScript, un poco de phyton y estoy haciendo cursos de Kotlin y ABAP
 <br>
-Proyects:
+Estos son algunos de mis proyectos
 <br>
-[Strict](https://github.com/tomas03/Strict)
+[App Optica Luz](https://github.com/tomas03/App-Optica-Luz)
 <br>
-[Fitness Gym](https://github.com/tomas03/FitnessGym)
+Aplicación de PC Desarrollada en Java con Netbeans para la gestión de una optica(clientes,ventas y observaciónes).
 <br>
-[JobFinder](https://github.com/tomas03/JobFinder)
+[Slime Clicker(Android,GScript)](https://github.com/tomas03/Slime-Clicker_Android)
+<br>
+Un Clicker Idle con diferentes minijuegos, actualmente en desarrollo, hecho con GDScript
+<br>
+[APP Barrio privado](https://github.com/tomas03/Barrio-Privado)
+<br> 
+Una Aplicacion sin visual, en la cual mediante una API podemos hacer diferentes peticiones para simular la gestión de un barrio privado, desarrollado con Java y MYSQL
 <br>
 [El encuentro barberia](https://github.com/tomas03/ElEncuentroBarberia)
 <br>
-[App Negocio](https://github.com/tomas03/appNegocioPC)
+FrontEnd con una pequeña conexion con MYSQL de una barberia
 <br>
-[to-do list](https://github.com/tomas03/To-do-list)
-<br>
-[formulario registro clientes](https://github.com/tomas03/FormularioRegistro)
-<br>
-About me:
+Un poco sobre mí:
 
--i love technology and learn how it works👨‍💻​
+-amo la tecnología y aprender como funciona👨‍💻​
 <br>
--i like to meet people inside and outside of the dev enviorment🤝​
+-soy muy sociable🤝​
 <br>
--i love music, i can't live without it🎶​
+-me gusta la musica, casi que no puedo vivir sin ella🎶​
 <br>
--a bit geek💻​🤓​
-<br>
-learned languages:
-<br>
-![212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6](https://github.com/tomas03/tomas03/assets/30119259/bb447908-0569-4c33-bd52-4a31e6078441)
-<br>
-![238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9](https://github.com/tomas03/tomas03/assets/30119259/1c19f0f2-2232-457f-80bf-888671b626aa)
-<br>
-![238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb](https://github.com/tomas03/tomas03/assets/30119259/6bdf9435-23d5-49ed-92ea-dea4adb375ca)
-<br>
+-soy un nerd, me gustan mucho los videojuegos y el anime💻​🤓​
+
 
 
 
