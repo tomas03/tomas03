@@ -30,10 +30,10 @@ Un poco sobre mí:
 <br>
 -me gusta la musica, casi que no puedo vivir sin ella🎶​
 <br>
--soy un nerd, me gustan mucho los videojuegos y el anime💻​🤓​
-
-
-
-
-
-
+-soy un nerd, me gustan mucho los videojuegos y el anime💻​🤓
+<br><br>​
+Mis Redes Sociales
+<br>
+[Instagram](https://www.instagram.com/tomi_fantinel)
+[TikTok](https://www.tiktok.com/@raventom03)
+[X](https://x.com/TomasFantinel)
