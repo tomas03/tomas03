@@ -2,7 +2,7 @@
 ![242e379f970c22bf30e1689290627058](https://github.com/tomas03/tomas03/assets/30119259/fb49ab77-1a1a-41ea-86c3-f152b3a72004)
 
 Soy un desarrollador de software en proceso buscando oportunidad para crecer y mejorar.
-Mi fuerte es Java, aunque tambien se Javascript, HTML CSS, MYSQL, GScript, un poco de phyton y estoy haciendo cursos de Kotlin y ABAP
+Mi fuerte es Java, aunque tambien se Javascript, HTML CSS, MYSQL, GDScript, un poco de phyton y estoy haciendo cursos de Kotlin y ABAP
 <br>
 Estos son algunos de mis proyectos
 <br>
