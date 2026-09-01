@@ -2,8 +2,8 @@
 ![242e379f970c22bf30e1689290627058](https://github.com/tomas03/tomas03/assets/30119259/fb49ab77-1a1a-41ea-86c3-f152b3a72004)
 # ¡Hola! Soy Tomas Fantinel 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tomas%20Fantinel-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/TU-PERFIL)
-[![Email](https://img.shields.io/badge/Email-tomasfantinel%40gmail.com-D14836?style=flat&logo=gmail)](mailto:tomasfantinel@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tomas%20Fantinel-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/tomasfantinel2003/)
+[![Email](https://img.shields.io/badge/Email-devtomasfantinel%40gmail.com-D14836?style=flat&logo=gmail)](mailto:devtomasfantinel@gmail.com)
 
 Desarrollador de Software enfocado en el desarrollo **Backend** y aplicaciones de gestión con **Java, PHP y bases de datos relacionales**. Estudiante de la Tecnicatura en Desarrollo de Software (ISSD), con interés en el diseño de arquitecturas limpias, patrones de diseño (MVC/DAO) y desarrollo de APIs.
 
