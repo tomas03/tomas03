@@ -23,7 +23,6 @@ Desarrollador de Software enfocado en el desarrollo **Backend** y aplicaciones d
 * **[APP-ItalCar](https://github.com/tomas03/APP-ItalCar):** Software de gestión comercial desarrollado en Java Swing con conexión a MySQL y arquitectura por capas (MVC/DAO).
 * **[App-Optica-Luz](https://github.com/tomas03/App-Optica-Luz):** Sistema de control de clientes, stock y ventas para ópticas desarrollado en Java.
 * **[Barrio-Privado](https://github.com/tomas03/Barrio-Privado):** API / Backend para administración de accesos, residentes y gestión interna con Java y MySQL.
-* **[Slime Clicker](https://github.com/tomas03/Slime-Clicker):** Videojuego idle/clicker desarrollado en Godot Engine utilizando GDScript.
 
 ---
 
